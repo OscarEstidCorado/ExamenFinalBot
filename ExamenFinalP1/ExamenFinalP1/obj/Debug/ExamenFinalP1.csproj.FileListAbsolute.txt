@@ -1,0 +1,16 @@
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\bin\Debug\ExamenFinalP1.exe.config
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\bin\Debug\ExamenFinalP1.exe
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\bin\Debug\ExamenFinalP1.pdb
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\bin\Debug\Telegram.Bot.dll
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\bin\Debug\Telegram.Bot.xml
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\obj\Debug\ExamenFinalP1.csprojAssemblyReference.cache
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\obj\Debug\ExamenFinalP1.csproj.CoreCompileInputs.cache
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\obj\Debug\ExamenFinalP1.csproj.CopyComplete
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\obj\Debug\ExamenFinalP1.exe
+C:\Users\OscarEstid\source\repos\ExamenFinalP1\ExamenFinalP1\obj\Debug\ExamenFinalP1.pdb
